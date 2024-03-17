@@ -2,3 +2,9 @@ Java
 ==============================
 Integer.MIN_VALUE
 Integer.MAX_VALUE
+==============================
+java.math.BigInteger
+How to convert BigInteger to int ?
+BigInteger_VariableName.intValue()
+ex : int a=b1.intValue();
+
